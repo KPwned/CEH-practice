@@ -5,9 +5,7 @@
   <summary>Recon</summary>
 * -r range , Scan Entire Network for ALive host using ARP
 ```console
-  google advance search for subdomains 
-  site:example.com -inurl:www
-:~$ netdiscover -r 192.168.29.1/24
+  :~$ netdiscover -r 192.168.29.1/24
 ```
 
 * -f switch do not fragment, -l buffer size
