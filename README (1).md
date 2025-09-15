@@ -3,7 +3,8 @@
 # Reconnasiance/Footprinting
 <details>
   <summary>Recon</summary>
-
+google advance search for subdomains 
+  site:example.com -inurl:www
 * -r range , Scan Entire Network for ALive host using ARP
 ```console
 :~$ netdiscover -r 192.168.29.1/24
