@@ -1,0 +1,11 @@
+To find the subdomain of a domain in google
+site:example.com -inurl:www
+
+other research pages
+netcraft
+DNS dumpster
+pentest-tools.com
+
+
+for AI
+sgpt --chat subdomains --shell"use sublist3r to gather list of subdomains of the target organization (organiozation name)"
