@@ -1,9 +1,0 @@
-# Reconnasiance/Footprinting
-<details>
-  <summary>Recon</summary>
-  
-* To check subdomains using google advance search
-
-```console
-  :~$ site:example.com -inurl:www
-```
